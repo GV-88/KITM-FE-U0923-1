@@ -1,0 +1,13 @@
+.logo-box, h1, .subtitle, footer {
+    text-align: center;
+}
+
+.logo-box .logo, .logo-box .year {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.links>ul>li {
+    display: inline-block;
+    vertical-align: top;
+}
